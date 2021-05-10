@@ -11,4 +11,7 @@ public interface TestDemo1 {
 	// 张三加的aaa_xx 方法
 	void aaa_xxx();
 	
+	// 张三的bb
+	void zhangsan_bb();
+	
 }
