@@ -17,4 +17,6 @@ public interface TestDemo1 {
 	
 	void lisi_bbb();
 	
+	void test_aaa();
+	
 }
