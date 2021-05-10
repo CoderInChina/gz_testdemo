@@ -14,4 +14,7 @@ public interface TestDemo1 {
 	// 张三的bb
 	void zhangsan_bb();
 	
+	
+	void lisi_bbb();
+	
 }
